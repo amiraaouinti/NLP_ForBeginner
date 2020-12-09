@@ -1,4 +1,4 @@
-# NLP_ForBeginner
+# NLP_ForBeginners
 This file will help you to get started with NLP. 
 I uploaded the .ipynb file so you can be able to see the results of each line immediately.
 
